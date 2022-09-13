@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 13 Sep 2022 04:59:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Test screenshot insert]]></title>
+            <guid>76f7fab774cd449ea0dfd8d162e31cab</guid>
+            <pubDate>Mon, 29 Aug 2022 20:41:55 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="/_resources/e99282cca9634419940ee54e1dc26e50.jpg" />]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Joplin to GitHub pages]]></title>
+            <guid>331ecbf8f7274ae4a6f563409a801efb</guid>
+            <pubDate>Wed, 27 Jul 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p>ylc395/joplin-plugin-pages-publisher: A Joplin plugin to generate static blog website from picked notes, and publish it as Github Pages</p>
+<p><a title="https://github.com/ylc395/joplin-plugin-pages-publisher" href="https://github.com/ylc395/joplin-plugin-pages-publisher">https://github.com/ylc395/joplin-plugin-pages-publisher</a></p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
